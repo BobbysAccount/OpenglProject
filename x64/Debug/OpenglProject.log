@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Bobby\source\repos\OpenglProject\shader_s.h(44,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Bobby\source\repos\OpenglProject\Source.cpp(99,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenglProject.vcxproj -> C:\Users\Bobby\source\repos\OpenglProject\x64\Debug\OpenglProject.exe

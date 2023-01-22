@@ -1,0 +1,2 @@
+C:\Users\Bobby\source\repos\OpenglProject\x64\Debug\OpenglProject.exe
+C:\Users\Bobby\source\repos\OpenglProject\x64\Debug\OpenglProject.pdb

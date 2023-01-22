@@ -1,0 +1,26 @@
+﻿  glad.c
+  Source.cpp
+C:\Users\Bobby\source\repos\OpenglProject\code\shader_s.h(44,40): warning C4101: 'e': unreferenced local variable
+Source.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+Source.obj : error LNK2001: unresolved external symbol _glfwSetFramebufferSizeCallback
+Source.obj : error LNK2001: unresolved external symbol _aiGetMaterialTextureCount
+Source.obj : error LNK2001: unresolved external symbol _glfwGetTime
+Source.obj : error LNK2001: unresolved external symbol _glfwGetKey
+Source.obj : error LNK2001: unresolved external symbol _glfwTerminate
+Source.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+Source.obj : error LNK2001: unresolved external symbol _glfwInit
+Source.obj : error LNK2001: unresolved external symbol _glfwSetWindowShouldClose
+Source.obj : error LNK2001: unresolved external symbol _glfwSetScrollCallback
+Source.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+Source.obj : error LNK2001: unresolved external symbol _glfwWindowHint
+Source.obj : error LNK2001: unresolved external symbol _glfwSetInputMode
+Source.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+Source.obj : error LNK2001: unresolved external symbol "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ)
+Source.obj : error LNK2001: unresolved external symbol "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z)
+Source.obj : error LNK2001: unresolved external symbol "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ)
+Source.obj : error LNK2001: unresolved external symbol "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ)
+Source.obj : error LNK2001: unresolved external symbol _glfwGetProcAddress
+Source.obj : error LNK2001: unresolved external symbol _aiGetMaterialTexture
+Source.obj : error LNK2001: unresolved external symbol _glfwSetCursorPosCallback
+Source.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+C:\Users\Bobby\source\repos\OpenglProject\Release\OpenglProject.exe : fatal error LNK1120: 22 unresolved externals
